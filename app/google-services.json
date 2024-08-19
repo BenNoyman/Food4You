@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "546012372192",
+    "firebase_url": "https://food4you-b569e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "food4you-b569e",
+    "storage_bucket": "food4you-b569e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546012372192:android:34c749f1ecd34b0a8f0485",
+        "android_client_info": {
+          "package_name": "com.example.food4you"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546012372192-8cr4mqk5su1clk5kqlnd44do705prb5i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.food4you",
+            "certificate_hash": "db0d1f6fc669ef6584cb987c478e928b8bb16bd6"
+          }
+        },
+        {
+          "client_id": "546012372192-a7ejrh3hsv4hhi5bvg12novgnsve19ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcxJ2MKu3FMOOuVvu0MPFcJ0vU8G9TSds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546012372192-a7ejrh3hsv4hhi5bvg12novgnsve19ka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

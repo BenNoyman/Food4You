@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Food4You</string>
+    <string name="sign_out">Sign out</string>
+    <string name="welcome">Welcome</string>
+    <string name="search_for_food">Search for food....</string>
+    <string name="today_s_best">Today\'s best</string>
+    <string name="view_all">View all</string>
+    <string name="choose_category">Choose Category</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

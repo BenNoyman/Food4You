@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home"
+            android:menuCategory="container"
+            app:iconSize="32dp"
+            android:layout_width="wrap_content"
+            android:icon="@drawable/nav_home"/>
+        <item
+            android:id="@+id/nav_myOrders"
+            android:title="My Orders"
+            android:menuCategory="container"
+            app:iconSize="32dp"
+            android:icon="@drawable/my_orders_new"
+            />
+        <item
+            android:id="@+id/nav_favorites"
+            android:title="Favorites"
+            android:menuCategory="container"
+            app:iconSize="32dp"
+            android:icon="@drawable/nav_favorits"/>
+        <item
+            android:id="@+id/nav_payment"
+            android:title="Payment Methods"
+            android:menuCategory="container"
+            app:iconSize="32dp"
+            android:icon="@drawable/nav_payment"/>
+        <item
+            android:id="@+id/nav_contact"
+            android:title="Contact Us"
+            android:menuCategory="container"
+            app:iconSize="32dp"
+            android:icon="@drawable/nav_contact_us"/>
+        <item
+            android:id="@+id/nav_help"
+            android:title="Help &amp; FAQs"
+            android:menuCategory="container"
+            app:iconSize="32dp"
+            android:icon="@drawable/nav_help"/>
+        <item
+            android:id="@+id/nav_settings"
+            android:title="Settings"
+            android:menuCategory="container"
+            app:iconSize="32dp"
+            android:icon="@drawable/nav_settings"/>
+        <item
+            android:id="@+id/nav_logout"
+            android:title="Log Out"
+            android:menuCategory="container"
+            app:iconSize="32dp"
+            android:icon="@drawable/nav_logout"/>
+    </group>
+
+</menu>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="main_color">#f5cb58</color>
+    <color name="Orange">#e95322</color>
+    <color name="Red100">#ffdecf</color>
+    <color name="Red700">#D50000</color>
+    <color name="Red700Darker">#9B0000</color>
+    <color name="category_purple">#8189b5</color>
+    <color name="category_blue">#6eaabf</color>
+    <color name="category_red">#e78e80</color>
+    <color name="category_green">#55b987</color>
+    <color name="category_pink">#c45b8c</color>
+    <color name="category_dark_green">#78a685</color>
+    <color name="category_light_purple">#907ccf</color>
+    <color name="category_light_pink">#c45b8c</color>
+    <color name="detail_star_yellow">#FFC106</color>
+    <color name="detail_star_gray">#cfc9d2</color>
+</resources>
