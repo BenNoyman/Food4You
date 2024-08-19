@@ -89,6 +89,10 @@ The project is organized into several packages and classes, each serving a speci
 ### Resources
 - **Firebase**: The app uses Firebase Realtime Database to store and retrieve data such as food categories, food items, user data, and order history.
 
+### Screenshots
+![image](https://github.com/user-attachments/assets/8fe783de-ecc9-4ca4-92cb-ca3a877ff499)
+
+
 ## Installation
 
 To set up this project locally:
