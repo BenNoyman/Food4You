@@ -5,7 +5,6 @@
 ## Table of Contents
 
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Screenshots](#screenshots)
@@ -91,13 +90,3 @@ The project is organized into several packages and classes, each serving a speci
 
 ### Screenshots
 ![image](https://github.com/user-attachments/assets/8fe783de-ecc9-4ca4-92cb-ca3a877ff499)
-
-
-## Installation
-
-To set up this project locally:
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/Food4You.git
