@@ -12,7 +12,6 @@
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Screenshots](#screenshots)
-- [License](#license)
 
 ## Features
 
@@ -107,6 +106,3 @@ The project is organized into several packages and classes, each serving a speci
 
 ![Food4You Screenshot](https://github.com/user-attachments/assets/8fe783de-ecc9-4ca4-92cb-ca3a877ff499)
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
