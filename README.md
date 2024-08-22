@@ -3,6 +3,8 @@
 **Food4You** is a comprehensive Android application developed using Java and Android Studio. It provides a seamless food ordering experience by allowing users to explore various food categories, view details of each dish, and add items to their cart for ordering. The app integrates location-based services with Google Maps to recommend nearby restaurants and manage location data. Additional features include managing favorite foods, viewing order history, applying discounts, and more.
 
 <img src="https://github.com/user-attachments/assets/72c2beff-8bf0-4614-a149-65515880ca73" alt="logo" width="200"/>
+<img src="https://github.com/user-attachments/assets/1512338a-d589-426b-9838-067d4831d3a3" alt="logo2" width="200"/>
+
 
 ## Table of Contents
 
